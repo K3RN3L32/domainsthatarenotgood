@@ -2,7 +2,7 @@
 These domains are full of RATS, etc.
 Modified Version of hostmod, but with way more domains!
 
-Renamed domains to lists_text.txt
+Renamed domains to list_text.txt
 
 You can now add these domains to your personal adblocker (NextDNS, AdGuardHome etc.)
 
